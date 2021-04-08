@@ -6,6 +6,11 @@
 - sass
 - source maps
 
+## Todo
+
+- unit test
+- tailwindcss
+
 ## Project setup
 
 ```
