@@ -8,7 +8,6 @@
 
 ## Todo
 
-- unit test
 - tailwindcss
 
 ## Project setup
@@ -33,6 +32,12 @@ npm run lint
 
 ```
 npm run lint:fix
+```
+
+### Run Tests
+
+```
+npm run test
 ```
 
 ### Build for production (dist folder)
