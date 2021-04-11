@@ -14,10 +14,10 @@
 <script lang="ts" src="./App.ts"></script>
 
 <style scoped lang="scss">
-  .sfc {
-    color: blue;
-    &.x-large {
-      font-size: x-large;
-    }
+.sfc {
+  color: blue;
+  &.x-large {
+    font-size: x-large;
   }
+}
 </style>
