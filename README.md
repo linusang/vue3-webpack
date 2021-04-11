@@ -23,6 +23,18 @@ npm install
 npm run dev
 ```
 
+### Lint using ESLint
+
+```
+npm run lint
+```
+
+### Fix Lint using ESLint
+
+```
+npm run lint:fix
+```
+
 ### Build for production (dist folder)
 
 ```
