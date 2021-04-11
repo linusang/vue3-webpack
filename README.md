@@ -34,3 +34,21 @@ npm run build
 ```
 npm run preview
 ```
+
+### VS Code Settings
+
+```json
+{
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.codeActionsOnSave.mode": "problems",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "editor.formatOnSave": true
+}
+```
